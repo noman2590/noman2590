@@ -1,20 +1,23 @@
-Hi, guys! 👋
-Welcome to my page!
+#Hi, guys! 👋
+###Welcome to my page!
 
-I'm Noman Akram.
-Currently learning to walk in ML/DL without falling on my bottom.
+I'm ####Noman Akram.
 Open to collaborating on interesting and innovative projects.
 
-LinkedIn e-mail Kaggle Stepik LeetCode
+[LinkedIn](https://www.linkedin.com/in/noman-akram-16a892162/) 
+[e-mail](mailto:nomanakram2590@gmail.com)
 
-Languages
-PHP JavaScript jQuery Wordpress SQL HTML CSS3
+####Languages
+[PHP](https://www.php.net/) 
+[JavaScript](https://www.javascript.com/) 
+[jQuery](https://jquery.com/) 
+[Wordpress](https://wordpress.org/) 
+[SQL](https://www.mysql.com/) 
+[HTML](https://html.com/) 
+[CSS3](https://en.wikipedia.org/wiki/CSS)
 
-ML/DL
-Pandas NumPy MLFlow Scikit-Learn PyTorch SciPy Matplotlib
-
-Technologies & Frameworks
+####Technologies & Frameworks
 Tailwind Bootstrap Laravel
 
-OS
+####Operating System
 Linux Windows
