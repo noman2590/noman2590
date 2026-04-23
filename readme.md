@@ -4,9 +4,6 @@
 I'm Noman Akram.
 Open to collaborating on interesting and innovative projects.
 
-[LinkedIn](https://www.linkedin.com/in/noman-akram-16a892162/) 
-[e-mail](mailto:nomanakram2590@gmail.com)
-
 #### Technologies & Frameworks
 [PHP](https://www.php.net/) 
 [JavaScript](https://www.javascript.com/) 
